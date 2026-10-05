@@ -1,0 +1,17 @@
+{
+    "alteracoes": {
+      "Introdução": {
+        "E22": "Teste",
+        "E23": "Teste",
+        "E25": 2025,
+        "E28": "Teste",
+        "E29": "Teste",
+        "E30": "01/10/2026"
+      },
+      "En. elétrica (localização)": {
+        "B41": "TESTE",
+        "C41": "Teste",
+        "P41": 1000
+      }
+    }
+  }

@@ -47,6 +47,10 @@ def categorias():
             {"slug": "emissoes-fugitivas", "nome": "Emissões fugitivas"},
             {"slug": "combustao-estacionaria", "nome": "Combustão estacionária"},
             {"slug": "combustao-movel", "nome": "Combustão móvel"},
+            {"slug": "energia-eletrica", "nome": "En. elétrica (localização)"},
+            {"slug": "emissao-casa-trabalho", "nome": "Emissões casa-trabalho"},
+            {"slug": "viagens-negocios", "nome": "Viagens a Negócios"},
+
         ]
     }
 
@@ -55,6 +59,9 @@ SLUG_TO_SHEET = {
     "emissoes-fugitivas": "Emissões fugitivas",
     "combustao-estacionaria": "Combustão estacionária",
     "combustao-movel": "Combustão móvel",
+    "energia-eletrica": "En. elétrica (localização)",
+    "emissao-casa-trabalho": "Emissões casa-trabalho",
+    "viagens-negocios": "Viagens a Negócios",
 }
 
 

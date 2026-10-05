@@ -64,7 +64,7 @@ A aba `Introdução` pode ser enviada junto se o cálculo depender desses dados.
 ```bash
 curl -X POST http://localhost:8000/api/emissoes/calcular/emissoes-fugitivas ^
   -H "Content-Type: application/json" ^
-  --data-binary "@tests/payload-emissoes-fugitivas.json"
+  --data-binary "@tests/payload-emissoes-fugitivas-extintor.json"
 ```
 
 No PowerShell, use `curl.exe` ou o Swagger em `/docs`.

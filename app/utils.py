@@ -12,6 +12,9 @@ CELLS = {
     "Combustão estacionária": ["E282", "E284"],
     "Combustão móvel": ["F805", "F807"],
     "Emissões fugitivas": ["E277", "F279"],
+    "En. elétrica (localização)": ["H299", "H301"],
+    "Emissões casa-trabalho": ["F763", "F765"],
+    "Viagens a Negócios": ["V1203", "V1205"],
 }
 
 lo_manager = LibreOfficeManager()

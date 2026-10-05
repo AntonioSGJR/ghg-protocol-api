@@ -1,0 +1,15 @@
+Combustão móvel:
+    R210 -> Anual
+    F210:Q210 -> Mensal - Jan (F210) -> Dez (Q210)
+
+Veiculo Eletrico:
+    Q113 -> Anual
+    E113:P113 -> Mensal - Jan (E113) -> Dez (P113)
+
+Energia eletrica comprada sin:
+    P41 -> Anual
+    D41:O41 -> Mensal - Jan (D41) -> Dez (O41)
+
+Viagens e Negócios (Automoveis):
+    AH1057 -> Anual
+    V1057:AG1057 -> Mensal - Jan (V1057) -> Dez (AG1057)
