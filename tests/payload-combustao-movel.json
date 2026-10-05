@@ -1,0 +1,18 @@
+{
+  "alteracoes": {
+    "Introdução": {
+      "E22": "Teste",
+      "E23": "Teste",
+      "E25": 2025,
+      "E28": "Teste",
+      "E29": "Teste",
+      "E30": "01/10/2026"
+    },
+    "Combustão móvel": {
+      "B210": "TESTE",
+      "C210": "Teste",
+      "D210": "Etanol",
+      "R210": 1000
+    }
+  }
+}
